@@ -8,3 +8,9 @@ whoami
 alok kumar
 
 this is a another new line.
+
+- [ ] Checkbox 1
+- [ ] Checkbox 2
+- [ ] Checkbox 3
+- [ ] Checkbox 4
+- [ ] Checkbox 5
